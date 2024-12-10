@@ -1,0 +1,30 @@
+Build and Deploy a Complete Chat App with MERN Stack | JWT, Socket.io, MongoDB | Beginner Friendly
+
+how to add model, how to create relation ship between them 
+how to design model for this chat app 
+we use react and we create custome hooks for each operations  
+this hook make our code more clean and make our code reasuable and maintainable 
+in here we use state management solution - context in zustand
+
+socket io - this is allow for our application to have the real time communication 
+
+hooks , component and props
+
+we create backend in root because it easy to deploy both backend and frontend in root
+
+----------------------------------
+
+MongoDB Atlas
+
+userName = merinpriyasha
+password = Sm7QERNSSPXH65jZ
+
+if we donot want to have any other problems while developing use Zero ip address. it can be access in anywhere 
+0.0.0.0 /0  --> this is only for development
+
+ENUM =  enum: ["male", "female"] = the enum property is used to define a set of predefined values that a field (or attribute) can take. It acts as a constraint, ensuring that only specific, allowed values can be assigned to that field. This is useful for enforcing data integrity and preventing invalid data from being saved to the database.
+const salt = await bcrypt.genSalt(10) = if we put (50) then its more secure but it take more time to generate the salt. so this encryption can be slow.
+
+to generate the Random JWT_SECRET = open git bash -> type 'openssl rand -base64 32'
+JWT_TOKEN is the key to sign the token it is a digital signature. and when we verify the token we use the payload(userId)
+
