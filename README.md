@@ -68,6 +68,14 @@ Create a .env file in the root directory and add the following:
 
 ## 🖼 Screenshots
 
+<img width="1417" height="863" alt="loginpage-chatapp" src="https://github.com/user-attachments/assets/b98914bf-16d0-4bb7-997d-071bb89e50fd" />
+
+<img width="1101" height="785" alt="chat between jane" src="https://github.com/user-attachments/assets/35a174a5-d1a3-4be0-8dd8-276cf117c1da" />
+
+
+<img width="1176" height="760" alt="chat between sam" src="https://github.com/user-attachments/assets/453366d3-1a3b-4267-9df1-3935effc6023" />
+
+
 ###  live web app link
 https://chat-app-prod-xa66.onrender.com
 
